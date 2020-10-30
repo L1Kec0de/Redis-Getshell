@@ -1,6 +1,7 @@
 # Redis-Getshell
-Redis 未授权检测,密码爆破,Webshell写入,SSH公私钥写入,定时计划反弹Shell
-Usage:python3 RedisGetshell.py -H 127.0.0.1 -P 6379
+- <font color=red>其中的`p`参数为了区别端口`P`我将其改成了`a`</font>
+- Redis 未授权检测,密码爆破,Webshell写入,SSH公私钥写入,定时计划反弹Shell
+- Usage:python3 RedisGetshell.py -H 127.0.0.1 -P 6379
 # Webshell
 ![rediswebshell.png](https://i.loli.net/2020/10/30/HKJwpAaxfVtkgj4.png)
 ![redis phpinfo.png](https://i.loli.net/2020/10/30/WVQBTNqxgM6E7LA.png)
