@@ -1,4 +1,6 @@
 # Redis-Getshell
+- https://youtu.be/Qa4rE1Hr0vc
+- https://b23.tv/am71ti
 - <font color=red>其中的`p`参数为了区别端口`P`我将其改成了`a`</font>
 - Redis 未授权检测,密码爆破,Webshell写入,SSH公私钥写入,定时计划反弹Shell
 - Usage:python3 RedisGetshell.py -H 127.0.0.1 -P 6379
